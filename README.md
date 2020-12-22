@@ -5,7 +5,7 @@
 <a href="#"><img title="Whatsapp Bot" src="https://img.shields.io/badge/PHUB (BOT)-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/X-PrCx12."><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/X-PrCx12."><img title="Author" src="https://img.shields.io/badge/Author-X-PrCx12-black.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/X-PrCx12?color=blue&style=flat-square"></a>
@@ -58,4 +58,5 @@ you've just cloned!!
 * [`WhatsApp`](https://chat.whatsapp.com)
 ### Donate
 * [`Saweria`](https://saweria.co/donate)
-* [`Gopay`](https://gopay.co/donate/+6281260899819)
+
+## Sayonara......
